@@ -1,8 +1,10 @@
-#BLOPBLOG
+# BLOPBLOG
 
 BlopBlog is software that allows you to easily save ideas for blog posts, and when your ready to write all your ideas and saved links get exported to Jon's Network to work with.
 
 ## Using
+
+First, install it using `git clone https://github.com/JonPizza/blopblog`, cd into blopblog: `cd blopblog`, and run it! `python blog.py`
 
 COMMAND:     -n     | USAGE: "blog.py -n <POST ID>"        | Create a new post
 COMMAND:     -a     | USAGE: "blog.py -a <IDEA> <POST ID>" | Add idea to a post
