@@ -13,7 +13,7 @@ COMMAND:     -e     | USAGE: "blog.py -e <POST ID>"        | Edit a post
 COMMAND:     -l     | USAGE: "blog.py -l <URL> <POST ID>"  | Add link to a post
 COMMAND: --list/-i  | USAGE: "blog.py --list"              | List all posts
 COMMAND:     -r     | USAGE: "blog.py -r <POST ID>"        | Read a post
-COMMAND:   -x/-e    | USAGE: "blog.py -x <POST ID>"        | Export a post to https://jon.network
+COMMAND:     -x     | USAGE: "blog.py -x <POST ID>"        | Export a post to https://jon.network
 COMMAND:     -h     | USAGE: "blog.py -h"                  | Help
 ```
 
